@@ -1,0 +1,14 @@
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+} */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #22254b;
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
