@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles.css";
-const IMG_API = "https://image.tmdb.org/t/p/w1280";
+const IMG_API = "https://image.tmdb.org/t/p/w300";
 const setVoterClass = (vote) => {
   console.log(vote);
   if (vote.vote_average >= 8) {
